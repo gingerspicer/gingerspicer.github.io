@@ -49,6 +49,7 @@ input, select { vertical-align: middle; }
 /* write your CSS here */
 body {
     background: url("DeathtoStock_CreativeSpace4.jpg") repeat fixed center center / cover rgba(0, 0, 0, 0);
+    background color: wheat;
 }
 #modal {
     height: auto;
